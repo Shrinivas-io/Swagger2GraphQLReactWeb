@@ -1,2 +1,0 @@
-# Swagger2GraphQLReactWeb
-Swagger2GraphQLReactWeb
